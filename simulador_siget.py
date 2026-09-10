@@ -1,5 +1,4 @@
-from collections import deque
-
+from collections import deque 
 # ============================================================
 # SIMULADOR DE PLANIFICADOR DE CPU - SIGET
 # Algoritmos: FIFO y Round Robin
